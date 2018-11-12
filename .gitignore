@@ -1,0 +1,9 @@
+# Hugo default output directory
+/public
+
+# R specific file types
+.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
